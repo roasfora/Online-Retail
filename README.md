@@ -14,8 +14,8 @@ In this project, I have utilized the CRISP (Cross Industry Standard Process) met
 
 ### Technologies
 * Python
-*PySpark
-*Databricks
+* PySpark
+* Databricks
 
 #Dataset 
 
